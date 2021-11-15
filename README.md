@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @danjonwrigley
-- 👀 I’m interested in modern coding practices and ways to improve usability of all digital products, if it is hard to use, users are hard to find!
-- 🌱 I’m currently learning Kubernates, BigCommerce & Laravel Livewire
-- 📫 How to reach me ...
+- 👀 I’m interested in modern coding practices and ways to improve usability of all digital products, ***if it is hard to use, users are hard to find!***
+- 🌱 I’m currently learning:
+  - Kubernates
+  - BigCommerce
+  - Laravel Livewire
+- 📫 How to reach me:
+  - danjwrigley@gmail.com
